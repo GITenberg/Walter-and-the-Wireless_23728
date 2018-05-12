@@ -1,0 +1,36 @@
+_repo: Walter-and-the-Wireless_23728
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stecher, William F. (William Frederick)
+    alias: Stecher, William Frederick
+    birthdate: 1864
+    gutenberg_agent_id: '25257'
+    url: http://www.gutenberg.org/2009/agents/25257
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bassett, Sara Ware
+    birthdate: 1872
+    deathdate: 1968
+    gutenberg_agent_id: '2534'
+    url: http://www.gutenberg.org/2009/agents/2534
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Ware_Bassett
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2007-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23728'
+  lccn: '23005969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Radio -- Juvenile fiction'
+title: Walter and the Wireless
+url: http://www.gutenberg.org/ebooks/23728
